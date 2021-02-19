@@ -9,7 +9,22 @@ public class ServicioMedico extends Usuario {
     /**
      * Default constructor
      */
-    public ServicioMedico() {
+    public ServicioMedico() { /**
+     * 
+     */
+    public string Credencial;
+
+    /**
+     * 
+     */
+    public string ocupacion;
+
+    /**
+     * 
+     */
+    public string medicamento;
+
+}
     }
 
 }
