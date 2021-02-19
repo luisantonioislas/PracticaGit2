@@ -1,4 +1,5 @@
-package ModeloUsuarios;
+package ModelosUsuarios;
+
 import java.util.*;
 
 /**
@@ -15,6 +16,16 @@ public class Alumnos extends Usuario {
     /**
      * 
      */
-    private String matricula;
+    public String matricula;
+
+    /**
+     * 
+     */
+    public String numeross;
+
+    /**
+     * 
+     */
+    public String Attribute1;
 
 }
