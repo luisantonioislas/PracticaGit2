@@ -23,9 +23,7 @@ public class Caja extends Usuario {
      */
     public void Facturar;
 
-    /**
-     * 
-     */
+    
     public void Administrar;
 
     /**
